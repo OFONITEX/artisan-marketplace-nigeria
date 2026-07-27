@@ -1,0 +1,4315 @@
+[
+  {
+    "title": "Betty Cakes and Foods",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "18 Ben Iya Street, Osong Ama Estate Rd, Uyo 520103, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "18 Ben Iya Street, Osong Ama Estate Rd",
+    "city": "Uyo",
+    "postalCode": "520103",
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 806 003 1301",
+    "phoneUnformatted": "+2348060031301",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.0014903,
+      "lng": 7.954903
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ90IPtl9XXRARAvAmlrliCAc",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x105d575fb60f42f7:0x70862b99626f002",
+    "cid": "506763507306786818",
+    "reviewsCount": null,
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:39:52.779Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Betty%20Cakes%20and%20Foods&query_place_id=ChIJ90IPtl9XXRARAvAmlrliCAc",
+    "searchPageUrl": "https://www.google.com/maps/search/private%20chef/@4.578450409258711,8.316486228080937,12z?hl=en",
+    "searchString": "private chef",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmv9CqvcnM_NtCzqtu0Vq1dOoYEu8FAyr281RTLW9tb7-K5_J8T5KdNwSxKCQ2mdR0R-nQlK8TnW0Yb6fFSrwp64TNEtrdORhQtFRwEYUrii8N8LZ7DDADZf4zygwl6XBlgbg0=w408-h544-k-no",
+    "kgmid": "/g/11mx3jlt6q"
+  },
+  {
+    "title": "EeKay Chow",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": null,
+    "neighborhood": null,
+    "street": null,
+    "city": null,
+    "postalCode": null,
+    "state": null,
+    "countryCode": null,
+    "phone": "+234 701 478 1886",
+    "phoneUnformatted": "+2347014781886",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.021384,
+      "lng": 7.9293854
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5aTlfXvStaIRKySpNh1rmVc",
+    "categories": [
+      "Caterer",
+      "Service establishment"
+    ],
+    "fid": "0xa2b5d27b7de5a4e5:0x57996b1d36a9242b",
+    "cid": "6312194125951738923",
+    "reviewsCount": null,
+    "imagesCount": 0,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:39:52.779Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=EeKay%20Chow&query_place_id=ChIJ5aTlfXvStaIRKySpNh1rmVc",
+    "searchPageUrl": "https://www.google.com/maps/search/private%20chef/@4.578450409258711,8.316486228080937,12z?hl=en",
+    "searchString": "private chef",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": null,
+    "kgmid": "/g/11xkvgyhj2"
+  },
+  {
+    "title": "Stelsi Events and Catering Services",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Catering food and drink supplier",
+    "address": "21 Afaha Ukwah St, Eket 524101, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "21 Afaha Ukwah St",
+    "city": "Eket",
+    "postalCode": "524101",
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 806 688 8307",
+    "phoneUnformatted": "+2348066888307",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 4.6442785,
+      "lng": 7.9430582
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpZDBEbXdZxAR_1sIBKN0lq0",
+    "categories": [
+      "Catering food and drink supplier",
+      "Event management company",
+      "Event planner"
+    ],
+    "fid": "0x1067ddb511c190a5:0xad9674a304085bff",
+    "cid": "12508313258564279295",
+    "reviewsCount": 1,
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:39:54.005Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Stelsi%20Events%20and%20Catering%20Services&query_place_id=ChIJpZDBEbXdZxAR_1sIBKN0lq0",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.578450409258711,8.316486228080937,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkxkoiWY7SwLlB0-qjv6XczYYxtPEg_4DTGdRgvXcwLnQ1VZKriPANw8w7swJxXzKmzNP6-lIdTAZxNauh_3YofVT8thO7d9XqgrQPCaO7qRdansYbIsyVOLrev__xrBrpFmUg1uw=w408-h408-k-no",
+    "kgmid": "/g/11hzbvctx9"
+  },
+  {
+    "title": "Spicy Delicacy",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "22 Grace Bill Road, Eket 521103, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "22 Grace Bill Road",
+    "city": "Eket",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 803 885 2248",
+    "phoneUnformatted": "+2348038852248",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 4.6395091,
+      "lng": 7.9301225
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4YYgZ9_dZxARxx9grvBNQiU",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x1067dddf672086e1:0x25424df0ae601fc7",
+    "cid": "2684794023979261895",
+    "reviewsCount": 1,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:39:54.006Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Spicy%20Delicacy&query_place_id=ChIJ4YYgZ9_dZxARxx9grvBNQiU",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.578450409258711,8.316486228080937,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnqq062ns6drIWrDr0-CrBxJ4p0NzXMkvbWZLK4-s4Ll0V00cPi-uG1RpAD07XBSk3GB106UdL0-2HrkEdne5aqgfg_uqRm8uya34PjELgQ7FTu9p8MlAjHBxaZVZ4Eef9WRvm1=w408-h408-k-no",
+    "kgmid": "/g/11v_2q3q0k"
+  },
+  {
+    "title": "Euunivee Catering Services",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "23 Aka - Itiam Rd, close, Uyo 520211, Akwa Ibom, Nigeria",
+    "neighborhood": "close",
+    "street": "23 Aka - Itiam Rd",
+    "city": "Uyo",
+    "postalCode": "520211",
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 803 789 9722",
+    "phoneUnformatted": "+2348037899722",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.0126583,
+      "lng": 7.9365708
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJr7MlJHVXXRAR4QTHS-HV0k4",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x105d57752425b3af:0x4ed2d5e14bc704e1",
+    "cid": "5679837243683308769",
+    "reviewsCount": 36,
+    "imagesCount": 34,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:39:54.006Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Euunivee%20Catering%20Services&query_place_id=ChIJr7MlJHVXXRAR4QTHS-HV0k4",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.578450409258711,8.316486228080937,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWksPfusjZqRwJXyBCLfDwG7_mN_Fd9v_h2T5jxHNqWB3W8xQfmEFp7Q73I5uKlopJGZ2gX2AeU8E-f2hxlZ1Nx1PU6TE8oTBklOQEVSA3AVzx9QOLyU69MBbF9GgKXDNmQ6HA7elQ=w408-h544-k-no",
+    "kgmid": "/g/11llx0z0tb"
+  },
+  {
+    "title": "De Classic Catering Service",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "Barracks Road, Eket 521103, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "Barracks Road",
+    "city": "Eket",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 806 437 5909",
+    "phoneUnformatted": "+2348064375909",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 4.6404851,
+      "lng": 7.9187899
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJKW-ASf7cZxARoUxtNQRm1Eo",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x1067dcfe49806f29:0x4ad46604356d4ca1",
+    "cid": "5392046822131584161",
+    "reviewsCount": 4,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:39:54.006Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=De%20Classic%20Catering%20Service&query_place_id=ChIJKW-ASf7cZxARoUxtNQRm1Eo",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.578450409258711,8.316486228080937,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlN-lLqEZiE7cdBZkvYduG3srFUIelnX9INVySg325S2S1TRBI8QY3ujnVXmy8z6nWCUMA55E87qI6FdOGJCtrr1jGz90YCza1kAyq_4lLrDdd-vSplRSiwD2m_c_lTap5nNA5bQA=w427-h240-k-no",
+    "kgmid": "/g/11crzp4sxh"
+  },
+  {
+    "title": "Astute Catering",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "Uyo 520101, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": null,
+    "city": "Uyo",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 803 771 9221",
+    "phoneUnformatted": "+2348037719221",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.0376936,
+      "lng": 7.9127845
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIW2VablXXRARz7KekA2c2T0",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x105d57b969956d21:0x3dd99c0d909eb2cf",
+    "cid": "4456764888334643919",
+    "reviewsCount": 1,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:39:54.006Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Astute%20Catering&query_place_id=ChIJIW2VablXXRARz7KekA2c2T0",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.578450409258711,8.316486228080937,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WifmaZ6-xcdpkteowGgGtQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=249.47064&pitch=0&thumbfov=100",
+    "kgmid": "/g/11tsdhwc8f"
+  },
+  {
+    "title": "Lady B Catering Services",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "13 St. Christopher Avenue, Nung Oku, Uyo, Akwa Ibom State 521110, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "13 St. Christopher Avenue, Nung Oku",
+    "city": "Uyo, Akwa Ibom State",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 806 411 6455",
+    "phoneUnformatted": "+2348064116455",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 4.9898058,
+      "lng": 7.9193092
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJw8EDR174ZxARQ8AjBprjCsk",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x1067f85e4703c1c3:0xc90ae39a0623c043",
+    "cid": "14486641402058096707",
+    "reviewsCount": 2,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:39:54.006Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lady%20B%20Catering%20Services&query_place_id=ChIJw8EDR174ZxARQ8AjBprjCsk",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.578450409258711,8.316486228080937,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh4.googleusercontent.com/bmCkeToZNC7v43_6_CZ50BV6c7nNtmgdRTr0lVgrlUYk7bKaNZRGF_wtYB02Qj7W=w408-h306-k-no",
+    "kgmid": "/g/11g9q58qlm"
+  },
+  {
+    "title": "Mercy kwizin",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "Aka Etinan Rd, Uyo 520241, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "Aka Etinan Rd",
+    "city": "Uyo",
+    "postalCode": "520241",
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 812 647 7438",
+    "phoneUnformatted": "+2348126477438",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 4.9926388,
+      "lng": 7.8884654
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAYoeUOX5ZxARkYNwexk6SgM",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x1067f9e5501e8a01:0x34a3a197b708391",
+    "cid": "237065811509937041",
+    "reviewsCount": null,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:10.793Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mercy%20kwizin&query_place_id=ChIJAYoeUOX5ZxARkYNwexk6SgM",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.578450409258711,7.767438190639688,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3UA46gh-IwDf_6d-NMD_uQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=229.2688&pitch=0&thumbfov=100",
+    "kgmid": "/g/11sbbchfy2"
+  },
+  {
+    "title": "Desiresworld Concept",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "140 Aka Etinan Rd, Uyo 521110, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "140 Aka Etinan Rd",
+    "city": "Uyo",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 806 353 3338",
+    "phoneUnformatted": "+2348063533338",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.000314,
+      "lng": 7.8998647
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJnyybTHH5ZxARDPTQi_Pb9DE",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x1067f9714c9b2c9f:0x31f4dbf38bd0f40c",
+    "cid": "3599743841245131788",
+    "reviewsCount": null,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:10.793Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Desiresworld%20Concept&query_place_id=ChIJnyybTHH5ZxARDPTQi_Pb9DE",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.578450409258711,7.767438190639688,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWldjJST4T8j5Yy9-xQzpkfRqgpGdkYWhCAQUXnoqC7mzyqxETNcwSmZzOBeyOF_Zfa_VbrWKVyUPL_ejty0pR-LudrW44ZOctw8B7_wQUO3DtzY12rktTsgJDgIKXdPDWf_oF4MaA=w408-h326-k-no",
+    "kgmid": "/g/11l211svkc"
+  },
+  {
+    "title": "Mklicious kitchen and confectionery",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Pastry shop",
+    "address": "66 Liverpool Road, Eket 521103, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "66 Liverpool Road",
+    "city": "Eket",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 808 475 5064",
+    "phoneUnformatted": "+2348084755064",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 4.642993,
+      "lng": 7.9176074
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJm2gGLmvdZxARvKUFmCf4Rx0",
+    "categories": [
+      "Pastry shop",
+      "Catering food and drink supplier"
+    ],
+    "fid": "0x1067dd6b2e06689b:0x1d47f8279805a5bc",
+    "cid": "2109927799384286652",
+    "reviewsCount": 5,
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:11.237Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12 to 6 AM, 8 AM to 12 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12 to 6 AM, 8 AM to 12 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12 to 6 AM, 8 AM to 12 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12 to 6 AM, 8 AM to 12 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12 to 6 AM, 8:30 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Highlights": [
+        {
+          "Great dessert": true
+        }
+      ],
+      "Dining options": [
+        {
+          "Dessert": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mklicious%20kitchen%20and%20confectionery&query_place_id=ChIJm2gGLmvdZxARvKUFmCf4Rx0",
+    "searchPageUrl": "https://www.google.com/maps/search/cake%20baker/@4.578450409258711,7.767438190639688,12z?hl=en",
+    "searchString": "cake baker",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnfv34nWNMrr6P5Uz50GtKk3SFz-iiXJtAGHNiKVf9LjNiP46lobqch1-FK6eRHXHJDWZ-v1l8sF_TlCIacL7_vqpnVy0sX7mBgLLYrdJ2bYoiFqSyM0DQFOd9_vvKh0cWIS7Ry=w408-h272-k-no",
+    "kgmid": "/g/11ks13j7nv"
+  },
+  {
+    "title": "Wizzi's Delite",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Personal chef service",
+    "address": "Akpan Essien Street, Uyo 520102, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "Akpan Essien Street",
+    "city": "Uyo",
+    "postalCode": "520102",
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "website": "https://wizzi-s-delite.pages.dev/",
+    "phone": "+234 703 060 2943",
+    "phoneUnformatted": "+2347030602943",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.0335605,
+      "lng": 7.9169198
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVR1sSmxwBwwR_BgO3obnPow",
+    "categories": [
+      "Personal chef service"
+    ],
+    "fid": "0xc07706c4a6c1d55:0x8c3ee786de0e18fc",
+    "cid": "10105769180303071484",
+    "reviewsCount": 33,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:17.691Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 11 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Wizzi's%20Delite&query_place_id=ChIJVR1sSmxwBwwR_BgO3obnPow",
+    "searchPageUrl": "https://www.google.com/maps/search/private%20chef/@4.852142503086236,7.767438190639688,12z?hl=en",
+    "searchString": "private chef",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkioDFWxPRp4oHjzNX4QmsbPeWhpSrFvn8MIE_oI1DGzfcDJpOLMBQpCgU5ggzrGU9i-zuP0l8LCkTsqpPRJm26uDiU0rt1YAwo2bOgU93G7BQBG8aSm1aQ5pMhdgGO21p6R7BkDA=w408-h510-k-no",
+    "kgmid": "/g/11v_0d9x9h"
+  },
+  {
+    "title": "Uddy's Healthy Kitchen",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "2 C lane, Ewet Housing Extension, Uyo 520101, Akwa Ibom, Nigeria",
+    "neighborhood": "Ewet Housing Extension",
+    "street": "2 C lane",
+    "city": "Uyo",
+    "postalCode": "520101",
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 902 571 3916",
+    "phoneUnformatted": "+2349025713916",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.0130318,
+      "lng": 7.9555405
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtfe5y_9XXRARq71Gdc1_ytY",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x105d57ffcbb9f7b5:0xd6ca7fcd7546bdab",
+    "cid": "15477323589824724395",
+    "reviewsCount": 20,
+    "imagesCount": 64,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:17.691Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Uddy's%20Healthy%20Kitchen&query_place_id=ChIJtfe5y_9XXRARq71Gdc1_ytY",
+    "searchPageUrl": "https://www.google.com/maps/search/private%20chef/@4.852142503086236,7.767438190639688,12z?hl=en",
+    "searchString": "private chef",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnxg5G3VoOhVauiV9EkHQzQU5sBuQgGMgfm97ADtj2erUg5keBw6kNUIBc-Cxx6egnbgL11iK4JydHfT7oP2FhLnUewot1IDfE0Zb97ACQSn4ECOrl1FJcswomxTmeN33zqP3HRdA=w408-h544-k-no",
+    "kgmid": "/g/11c57smjq7"
+  },
+  {
+    "title": "Elyon's Event World",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "3 New Market Road, Abak, Akwa Ibom 532101, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "3 New Market Road",
+    "city": "Abak, Akwa Ibom",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 803 310 3571",
+    "phoneUnformatted": "+2348033103571",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 4.9825211,
+      "lng": 7.7863498
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJf_7VH9j_ZxARENU2Vehl7xM",
+    "categories": [
+      "Caterer",
+      "Cake decorating equipment shop",
+      "Cake shop",
+      "Training center"
+    ],
+    "fid": "0x1067ffd81fd5fe7f:0x13ef65e85536d510",
+    "cid": "1436478854690952464",
+    "reviewsCount": null,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:20.439Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Elyon's%20Event%20World&query_place_id=ChIJf_7VH9j_ZxARENU2Vehl7xM",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.852142503086236,7.767438190639688,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh5.googleusercontent.com/QbHjPBE2LHbk-yj9UgH5N-JIVX75fet37cUPHoHhRSg0PWyW4qfb1UTlyqXPvs3x=w426-h240-k-no",
+    "kgmid": "/g/11fy20ymsf"
+  },
+  {
+    "title": "Food Flames Catering Services",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Catering food and drink supplier",
+    "address": "16 Abak Rd, Uyo 520101, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "16 Abak Rd",
+    "city": "Uyo",
+    "postalCode": "520101",
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 803 869 4515",
+    "phoneUnformatted": "+2348038694515",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.0280502,
+      "lng": 7.9105367
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJBZq1AH3plwsRqrRRe725RVw",
+    "categories": [
+      "Catering food and drink supplier"
+    ],
+    "fid": "0xb97e97d00b59a05:0x5c45b9bd7b51b4aa",
+    "cid": "6648924648351315114",
+    "reviewsCount": 4,
+    "imagesCount": 34,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:20.465Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6:30 AM to 5:30 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6:30 AM to 5:30 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6:30 AM to 5:30 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6:30 AM to 5:30 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6:30 AM to 5:30 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6:30 AM to 5:30 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "7:30 AM–5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7:30 AM–5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7:30 AM–5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7:30 AM–5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7 AM–5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7 AM–5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7 AM–5 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Food%20Flames%20Catering%20Services&query_place_id=ChIJBZq1AH3plwsRqrRRe725RVw",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.852142503086236,7.767438190639688,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGdQXPl_Gmsejd0WbFMPT7e6sZDEB6a0-h-qT-FSXcO12ROYGI5O9-Hq9wEh_KdTak8K33pNrTIAeBFuARsDhf009WUQmOgX9jCYU6VXxpq-ZpBBgMuvScXnR-k3a8dS-nFtJ3s=w408-h306-k-no",
+    "kgmid": "/g/11rkff77z0"
+  },
+  {
+    "title": "Floscuisine",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "J12A Akpan Hogan street, shelter Afrique, Uyo, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "J12A Akpan Hogan street, shelter Afrique",
+    "city": "Uyo",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 803 580 6181",
+    "phoneUnformatted": "+2348035806181",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 4.9806279,
+      "lng": 7.9623082
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJc9fbvhD3ZxARWCBybybN0vo",
+    "categories": [
+      "Caterer",
+      "Delivery Restaurant"
+    ],
+    "fid": "0x1067f710bedbd773:0xfad2cd266f722058",
+    "cid": "18073733819553423448",
+    "reviewsCount": 10,
+    "imagesCount": 38,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:20.466Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Floscuisine&query_place_id=ChIJc9fbvhD3ZxARWCBybybN0vo",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.852142503086236,7.767438190639688,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_oh7zT6BynC-1p2Ayaj7V3bSAST8Moa9j5Lf2PthdIlKqd_fHXnjki5V5pXFykCA0BGFxpImRbv1OAawdHkZ7aIbcxjZKlUG4OlckiwISpl0lOBZDezIyRY3bcTi69747fr9qdA=w408-h544-k-no",
+    "kgmid": "/g/11p78nxs7z"
+  },
+  {
+    "title": "BLACKEES ARRAY",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "15 Nkemba St, Uyo 620261, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "15 Nkemba St",
+    "city": "Uyo",
+    "postalCode": "620261",
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 808 889 1318",
+    "phoneUnformatted": "+2348088891318",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.03329,
+      "lng": 7.9121048
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwU0oOZ1XXRAR8s_kTS__87Q",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x105d579d39284dc1:0xb4f3ff2f4de4cff2",
+    "cid": "13039045924803104754",
+    "reviewsCount": 2,
+    "imagesCount": 108,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:20.466Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=BLACKEES%20ARRAY&query_place_id=ChIJwU0oOZ1XXRAR8s_kTS__87Q",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.852142503086236,7.767438190639688,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGqt3P_m75CSd4q_kFgGcEZJ296cR9FXeJ3GYV8sxZtg5EJh3BcBsqVVJRpgtbC1sl0X3NGhZVeLQrD5Uox2M5RM3muIdkGDwCxQTFWLVWQfMPRgz8yBHT-kjxluK83f4LO_IPo=w408-h306-k-no",
+    "kgmid": "/g/11hz2bwqpk"
+  },
+  {
+    "title": "Rentals Catering Services And Decorations",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Event management company",
+    "address": "178 Nwaniba Rd, Uyo 520271, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "178 Nwaniba Rd",
+    "city": "Uyo",
+    "postalCode": "520271",
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 806 427 6571",
+    "phoneUnformatted": "+2348064276571",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.0279807,
+      "lng": 7.9502838
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfewCYkdXXRAR6negdsyMklc",
+    "categories": [
+      "Event management company"
+    ],
+    "fid": "0x105d57476202ec7d:0x57928ccc76a077ea",
+    "cid": "6310260837690931178",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:20.466Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rentals%20Catering%20Services%20And%20Decorations&query_place_id=ChIJfewCYkdXXRAR6negdsyMklc",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.852142503086236,7.767438190639688,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rO4EOlRExJwhH7JtbMtD5A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=350.1761&pitch=0&thumbfov=100",
+    "kgmid": "/g/11q99f1635"
+  },
+  {
+    "title": "Tina's Catering Services",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "Uyo 520101, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": null,
+    "city": "Uyo",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 808 680 5180",
+    "phoneUnformatted": "+2348086805180",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.0180457,
+      "lng": 7.9601784
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2wxIbAJYXRARV2wHA6NLjnY",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x105d58026c480cdb:0x768e4ba303076c57",
+    "cid": "8542848706670980183",
+    "reviewsCount": 18,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:20.466Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Tina's%20Catering%20Services&query_place_id=ChIJ2wxIbAJYXRARV2wHA6NLjnY",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.852142503086236,7.767438190639688,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFD0k4J0IxT7wEFh_h4kk2QerTKUfK2yKYqURTwf76I2PFkddxv5C2god57ZtjUq__24XKm3rr02opa3RFHRtfF3YzKbnJ1qCiO_fUO_jKhTACJFyOHeOyaARgDwcgzL28ZlKjV=w426-h240-k-no",
+    "kgmid": "/g/11cmc2fjtx"
+  },
+  {
+    "title": "Le'cheery Cakes 'N' Events",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "Off Water Board. 46 Akpankpan Street, By Ekpenyong St, &, Uyo, Akwa Ibom, Nigeria",
+    "neighborhood": "&",
+    "street": "Off Water Board. 46 Akpankpan Street, By Ekpenyong St",
+    "city": "Uyo",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 816 744 1371",
+    "phoneUnformatted": "+2348167441371",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.0321553,
+      "lng": 7.9354913
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJBceEd8BXXRAR0s7z_XqssiQ",
+    "categories": [
+      "Caterer",
+      "Cake shop",
+      "Event planner",
+      "Pastry shop"
+    ],
+    "fid": "0x105d57c07784c705:0x24b2ac7afdf3ced2",
+    "cid": "2644365575466503890",
+    "reviewsCount": 1,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:20.466Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Le'cheery%20Cakes%20'N'%20Events&query_place_id=ChIJBceEd8BXXRAR0s7z_XqssiQ",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.852142503086236,7.767438190639688,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFiGgzMKM9PFaE73djzB-KuhLlW98jPsX4rACuaEWKm9LbBR3Cs3CQp34CmD3PGixLSV1dpUoAxvERgECTsHgCZQGiE3Fui0JkQaI65R6XW5LOujBfbVSKFngL_Msv8Pvz4mis=w408-h544-k-no",
+    "kgmid": "/g/11f020s0wl"
+  },
+  {
+    "title": "Ekwere'scateringservices",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "Okung Estate, Uyo 520102, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "Okung Estate",
+    "city": "Uyo",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 802 768 7602",
+    "phoneUnformatted": "+2348027687602",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.0092934,
+      "lng": 7.9315354
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWzmBGCz5ZxAR-xyYo3-NpEQ",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x1067f92c1881395b:0x44a48d7fa3981cfb",
+    "cid": "4946233870104665339",
+    "reviewsCount": null,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:20.466Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ekwere'scateringservices&query_place_id=ChIJWzmBGCz5ZxAR-xyYo3-NpEQ",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.852142503086236,7.767438190639688,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFyR33i1OdKEv2X_9Iw4In1cARD5gE0m7Y2fu2y8H2rYXLEtuXcW70wR7NtkCAMv-GiG7bAIq28krJWrroH-tM4Bcef7Hi5NgqRY62YninnYnjCXhOSrCncdlxjrSXZEphYvzo_tA=w408-h306-k-no",
+    "kgmid": "/g/11v3_wxhjf"
+  },
+  {
+    "title": "Spicysyl Kitchen",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": null,
+    "neighborhood": null,
+    "street": null,
+    "city": null,
+    "postalCode": null,
+    "state": null,
+    "countryCode": null,
+    "phone": "+234 812 956 0532",
+    "phoneUnformatted": "+2348129560532",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 4.9948065,
+      "lng": 7.902083
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIdfmtt3a4WkRJpiDDF1KsYg",
+    "categories": [
+      "Caterer",
+      "Service establishment"
+    ],
+    "fid": "0x69e1daddb6e6d721:0x88b14a5d0c839826",
+    "cid": "9849735623538350118",
+    "reviewsCount": null,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:57.111Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "4 PM to 12 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "4 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "4 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "4 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 PM to 12 AM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Spicysyl%20Kitchen&query_place_id=ChIJIdfmtt3a4WkRJpiDDF1KsYg",
+    "searchPageUrl": "https://www.google.com/maps/search/private%20chef/@5.125834596913762,7.767438190639688,12z?hl=en",
+    "searchString": "private chef",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlRN4cYVooOZ4TRGC3xyy8Zboy-i5i3dJNoUKOL702XhOiAJuoVm0zYQhFSEt9Xlkd9RrGMgOQzhSlbwRb1ZaYtnIQx_2sJitoVOXN74PIC1gj2S5CCOkr0ba5bWl0LnqBL5atghw=w427-h240-k-no",
+    "kgmid": "/g/11t6vr4stk"
+  },
+  {
+    "title": "Foodnetwork",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "Oron Rd, Uyo 531118, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "Oron Rd",
+    "city": "Uyo",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "website": "http://www.foodnetwork.com/",
+    "phone": "+234 706 971 0393",
+    "phoneUnformatted": "+2347069710393",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.048143,
+      "lng": 7.869348
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJx53XQdxVXRARcZ44y8ald14",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x105d55dc41d79dc7:0x5e77a5c6cb389e71",
+    "cid": "6807091635025387121",
+    "reviewsCount": null,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:57.111Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Foodnetwork&query_place_id=ChIJx53XQdxVXRARcZ44y8ald14",
+    "searchPageUrl": "https://www.google.com/maps/search/private%20chef/@5.125834596913762,7.767438190639688,12z?hl=en",
+    "searchString": "private chef",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0K8_IsJaMgk7xa6CaEH3ug&cb_client=search.gws-prod.gps&w=408&h=240&yaw=296.7873&pitch=0&thumbfov=100",
+    "kgmid": "/g/11t3fxmwtd"
+  },
+  {
+    "title": "Pmega Services",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "15 Ikpa Rd, Uyo 520271, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "15 Ikpa Rd",
+    "city": "Uyo",
+    "postalCode": "520271",
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 915 446 5026",
+    "phoneUnformatted": "+2349154465026",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 5.0380161,
+      "lng": 7.9231982
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgUIsZO5XXRAR21F9YOkhQW4",
+    "categories": [
+      "Caterer",
+      "Consultant",
+      "DJ service",
+      "Event planner",
+      "Photographer"
+    ],
+    "fid": "0x105d57ee642c4281:0x6e4121e9607d51db",
+    "cid": "7944668503888187867",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:57.111Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pmega%20Services&query_place_id=ChIJgUIsZO5XXRAR21F9YOkhQW4",
+    "searchPageUrl": "https://www.google.com/maps/search/private%20chef/@5.125834596913762,7.767438190639688,12z?hl=en",
+    "searchString": "private chef",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9k1u6iwqDOWJwXwtlE2Y-A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=263.3191&pitch=0&thumbfov=100",
+    "kgmid": "/g/11jsz20brp"
+  },
+  {
+    "title": "TeraChef's NG",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "5 Mbong J Mbong Close, Four Lanes, General Edet Akpan Ave, beside Andrews Guest House, Uyo 520101, Akwa Ibom, Nigeria",
+    "neighborhood": "Ewet Housing Estate",
+    "street": "5 Mbong J Mbong Close, Four Lanes, General Edet Akpan Ave, beside Andrews Guest House",
+    "city": "Uyo",
+    "postalCode": "520101",
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 805 364 0404",
+    "phoneUnformatted": "+2348053640404",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.0125263,
+      "lng": 7.9530773
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJF0J2VBFXXRARCspHl4h9BZc",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x105d571154764217:0x97057d889747ca0a",
+    "cid": "10882242100217760266",
+    "reviewsCount": null,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:57.111Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM–6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM–6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM–4 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM–6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM–6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8 AM–6 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "No-contact delivery": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=TeraChef's%20NG&query_place_id=ChIJF0J2VBFXXRARCspHl4h9BZc",
+    "searchPageUrl": "https://www.google.com/maps/search/private%20chef/@5.125834596913762,7.767438190639688,12z?hl=en",
+    "searchString": "private chef",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnXXt0EAE_Z60EBP92T_mxg8Iicig6pwfZEbjbtOfroBi59ehlupgv-ZmD0ynq2a1daHNXKpiFXuQm-mvneLN3HsN8ZpXqQQG3dccitdilihd2mez4dLGXDdc5YlkSsArk8wrEB=w408-h408-k-no",
+    "kgmid": "/g/11l97btv4f"
+  },
+  {
+    "title": "Kani’s Kitchen",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Restaurant",
+    "address": "Beryl Park Resort, 83 Osong Ama Estate Rd, Uyo 520102, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "Beryl Park Resort, 83 Osong Ama Estate Rd",
+    "city": "Uyo",
+    "postalCode": "520102",
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 913 444 6752",
+    "phoneUnformatted": "+2349134446752",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.0074655,
+      "lng": 7.9567175
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJaT6i7wL4ZxARRHUQ-b4S9UA",
+    "categories": [
+      "Restaurant"
+    ],
+    "fid": "0x1067f802efa23e69:0x40f512bef9107544",
+    "cid": "4680667999153190212",
+    "reviewsCount": 49,
+    "imagesCount": 94,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:57.111Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Outdoor seating": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        },
+        {
+          "Dine-in": true
+        }
+      ],
+      "Highlights": [
+        {
+          "Great beer selection": true
+        },
+        {
+          "Great cocktails": true
+        },
+        {
+          "Great dessert": true
+        },
+        {
+          "Great tea selection": true
+        },
+        {
+          "Great wine list": true
+        }
+      ],
+      "Popular for": [
+        {
+          "Breakfast": true
+        },
+        {
+          "Lunch": true
+        },
+        {
+          "Dinner": true
+        },
+        {
+          "Solo dining": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Alcohol": true
+        },
+        {
+          "All you can eat": true
+        },
+        {
+          "Beer": true
+        },
+        {
+          "Cocktails": true
+        },
+        {
+          "Happy hour drinks": true
+        },
+        {
+          "Happy hour food": true
+        },
+        {
+          "Hard liquor": true
+        },
+        {
+          "Late-night food": true
+        },
+        {
+          "Quick bite": true
+        },
+        {
+          "Small plates": true
+        },
+        {
+          "Vegan options": true
+        },
+        {
+          "Vegetarian options": true
+        },
+        {
+          "Wine": true
+        }
+      ],
+      "Dining options": [
+        {
+          "Breakfast": true
+        },
+        {
+          "Brunch": true
+        },
+        {
+          "Lunch": true
+        },
+        {
+          "Dinner": true
+        },
+        {
+          "Catering": true
+        },
+        {
+          "Dessert": true
+        },
+        {
+          "Seating": true
+        },
+        {
+          "Table service": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Bar onsite": true
+        },
+        {
+          "Restroom": true
+        }
+      ],
+      "Atmosphere": [
+        {
+          "Casual": true
+        },
+        {
+          "Cozy": true
+        },
+        {
+          "Romantic": true
+        },
+        {
+          "Trendy": true
+        },
+        {
+          "Upscale": true
+        }
+      ],
+      "Crowd": [
+        {
+          "College students": true
+        },
+        {
+          "Groups": true
+        },
+        {
+          "Tourists": true
+        }
+      ],
+      "Planning": [
+        {
+          "Lunch reservations recommended": true
+        },
+        {
+          "Dinner reservations recommended": true
+        },
+        {
+          "Accepts reservations": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Children": [
+        {
+          "Good for kids": true
+        },
+        {
+          "High chairs": true
+        },
+        {
+          "Kids' menu": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kani%E2%80%99s%20Kitchen&query_place_id=ChIJaT6i7wL4ZxARRHUQ-b4S9UA",
+    "searchPageUrl": "https://www.google.com/maps/search/private%20chef/@5.125834596913762,7.767438190639688,12z?hl=en",
+    "searchString": "private chef",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkrHtiWjIGZiFgWUprT77S-KmJNYkJk5cOnjeOQM_ivZXNUV3TO_8Y04LqPSRmwOt4vSj1W8NYvkTV4ZgbxjdD6U0Iz3xSGbTqzuDPASVM-7sSP-__s8zF5b1gJsY1VAD78a1gQzQ=w408-h510-k-no",
+    "kgmid": "/g/11hbvbh88b"
+  },
+  {
+    "title": "Sandylicious kitchen",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "36 Samuel Effanga crescent, Uyo 520101, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "36 Samuel Effanga crescent",
+    "city": "Uyo",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "website": "https://youtube.com/channel/UCv0G1CsVAWuNZKzHDTSwQuQ",
+    "phone": "+234 802 202 4305",
+    "phoneUnformatted": "+2348022024305",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 5.037674,
+      "lng": 7.9128774
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJrY5_9apXXRARpTEu3VYpWc8",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x105d57aaf57f8ead:0xcf592956dd2e31a5",
+    "cid": "14941018691833049509",
+    "reviewsCount": 1,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:58.166Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sandylicious%20kitchen&query_place_id=ChIJrY5_9apXXRARpTEu3VYpWc8",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@5.125834596913762,7.767438190639688,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WifmaZ6-xcdpkteowGgGtQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=233.93727&pitch=0&thumbfov=100",
+    "kgmid": "/g/11q4k67mqx"
+  },
+  {
+    "title": "MAVON FOODS",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "219B Abak Rd, Uyo 520102, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "219B Abak Rd",
+    "city": "Uyo",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 806 309 5058",
+    "phoneUnformatted": "+2348063095058",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 5.0226575,
+      "lng": 7.8940003
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ77ieVT1WXRARWhXphQKkPVQ",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x105d563d559eb8ef:0x543da40285e9155a",
+    "cid": "6070188203508831578",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:40:58.167Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=MAVON%20FOODS&query_place_id=ChIJ77ieVT1WXRARWhXphQKkPVQ",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@5.125834596913762,7.767438190639688,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ETRuv14Pj4J7vJbZDybVRg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=243.28607&pitch=0&thumbfov=100",
+    "kgmid": "/g/11qhz78wc3"
+  },
+  {
+    "title": "PABBLYN CULINARY COLLEGE",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Private educational institution",
+    "address": "asuthan local government, No.35 Nung udoe road before ibesikpo secondary commercial school (ibesco, Nung Udoe, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "asuthan local government, No.35 Nung udoe road before ibesikpo secondary commercial school (ibesco",
+    "city": "Nung Udoe",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "website": "https://pabblynculinarycollege.com.ng/",
+    "phone": "+234 916 542 1735",
+    "phoneUnformatted": "+2349165421735",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 4.9229296,
+      "lng": 7.9599841
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJW6N6_Yj5ZxARrsRItz3Uzz4",
+    "categories": [
+      "Private educational institution",
+      "Catering food and drink supplier",
+      "Cupcake shop"
+    ],
+    "fid": "0x1067f988fd7aa35b:0x3ecfd43db748c4ae",
+    "cid": "4526069512063730862",
+    "reviewsCount": null,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:41:12.009Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 4 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Breakfast": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "12–5 PM"
+        }
+      ],
+      "Access": [
+        {
+          "day": "Monday",
+          "hours": "7:30 AM–4 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7:30 AM–4 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7:30 AM–4 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7:30 AM–4 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7:30 AM–4 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–4 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM–3 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        },
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PABBLYN%20CULINARY%20COLLEGE&query_place_id=ChIJW6N6_Yj5ZxARrsRItz3Uzz4",
+    "searchPageUrl": "https://www.google.com/maps/search/private%20chef/@4.852142503086236,8.041962209360312,12z?hl=en",
+    "searchString": "private chef",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=11sZh4AXT12_gqJedMEXmA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=244.90056&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ld3m6ykz"
+  },
+  {
+    "title": "UyoFoodDayOut",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": "28 Utuks lane, Nwaniba Road, Uyo, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "28 Utuks lane, Nwaniba Road",
+    "city": "Uyo",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 810 768 1717",
+    "phoneUnformatted": "+2348107681717",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 5.0272922,
+      "lng": 7.959028
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLTUZNkZXXRAR11toaawJ89s",
+    "categories": [
+      "Caterer"
+    ],
+    "fid": "0x105d57463619352d:0xdbf309ac69685bd7",
+    "cid": "15849022149754379223",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:41:20.220Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Takeout": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=UyoFoodDayOut&query_place_id=ChIJLTUZNkZXXRAR11toaawJ89s",
+    "searchPageUrl": "https://www.google.com/maps/search/private%20chef/@5.125834596913762,8.041962209360312,12z?hl=en",
+    "searchString": "private chef",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=buAbCfQ_Bv71KJh45YbDmg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=39.98674&pitch=0&thumbfov=100",
+    "kgmid": "/g/11tcfg9bzl"
+  },
+  {
+    "title": "Magic Fingers Online Catering Service",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": null,
+    "neighborhood": null,
+    "street": null,
+    "city": null,
+    "postalCode": null,
+    "state": null,
+    "countryCode": null,
+    "phone": "+234 810 984 8136",
+    "phoneUnformatted": "+2348109848136",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.021384,
+      "lng": 7.9293854
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ91GY8o8ZAU4RDi-X1q9dO-o",
+    "categories": [
+      "Caterer",
+      "Service establishment"
+    ],
+    "fid": "0x4e01198ff29851f7:0xea3b5dafd6972f0e",
+    "cid": "16878187038301957902",
+    "reviewsCount": null,
+    "imagesCount": 46,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:41:20.220Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Magic%20Fingers%20Online%20Catering%20Service&query_place_id=ChIJ91GY8o8ZAU4RDi-X1q9dO-o",
+    "searchPageUrl": "https://www.google.com/maps/search/private%20chef/@5.125834596913762,8.041962209360312,12z?hl=en",
+    "searchString": "private chef",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhtSdS5GMEwnEvLmD4egYs2aB_Y6dsFWV2fZ4Dwgo3e21axqtDOFSJ4XpaKTa8iuvhMJUPJ3Kh2Vqi6P8Lqdss207QeLvk-xdGqlJMjg6Afo9MNJpUIRmwiWjEnPXt-Vuh938S6p9xerg=w408-h510-k-no",
+    "kgmid": "/g/11yfbw5hc6"
+  },
+  {
+    "title": "Joycey integrated venture",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Caterer",
+    "address": null,
+    "neighborhood": null,
+    "street": null,
+    "city": null,
+    "postalCode": null,
+    "state": null,
+    "countryCode": null,
+    "phone": "+234 808 921 7340",
+    "phoneUnformatted": "+2348089217340",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.021384,
+      "lng": 7.9293854
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ5dRv1X9AkgR3TMKPWVPZ_M",
+    "categories": [
+      "Caterer",
+      "Service establishment"
+    ],
+    "fid": "0x4802fd55bf519727:0xf3674f653d0a33dd",
+    "cid": "17539074570052056029",
+    "reviewsCount": null,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T15:41:20.220Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Joycey%20integrated%20venture&query_place_id=ChIJJ5dRv1X9AkgR3TMKPWVPZ_M",
+    "searchPageUrl": "https://www.google.com/maps/search/private%20chef/@5.125834596913762,8.041962209360312,12z?hl=en",
+    "searchString": "private chef",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLH2ufRdf0aiPFKkbFIbpnxbZNwl2UU-QDKuCveMiVO9e4tdqISASLfD7MN68WkE5-7v9uovVZjh-DJhS7NgoF4j-Y7iZi-CffFGbtEdJIrUFKprhSLkEApqxAsDuzHJl3T2yG=w408-h544-k-no",
+    "kgmid": "/g/11krhm9bs8"
+  },
+  {
+    "title": "Vons Cakes And Catering Services",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Beauty salon",
+    "address": "2 Oron - Ikot Abasi Rd, Eket 521103, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "2 Oron - Ikot Abasi Rd",
+    "city": "Eket",
+    "postalCode": null,
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "phone": "+234 803 796 4973",
+    "phoneUnformatted": "+2348037964973",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 4.6443202,
+      "lng": 7.9265499
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCXJ9-VfdZxARd-FbD3KwHcw",
+    "categories": [
+      "Beauty salon"
+    ],
+    "fid": "0x1067dd57f97d7209:0xcc1db0720f5be177",
+    "cid": "14708105961992348023",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T17:44:48.651Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        }
+      ],
+      "Children": [
+        {
+          "Good for kids": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vons%20Cakes%20And%20Catering%20Services&query_place_id=ChIJCXJ9-VfdZxARd-FbD3KwHcw",
+    "searchPageUrl": "https://www.google.com/maps/search/salon/@4.578450409258711,8.041962209360312,12z?hl=en",
+    "searchString": "salon",
+    "language": "en",
+    "rank": 106,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PTH3gC1qM9L8kS4ObouC5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=313.61316&pitch=0&thumbfov=100",
+    "kgmid": "/g/11sxy5z903"
+  },
+  {
+    "title": "Basselen Confectionery and Catering services.",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Catering food and drink supplier",
+    "address": "1 Ernest Bassey St, off Oron Road, Uyo 520101, Akwa Ibom, Nigeria",
+    "neighborhood": null,
+    "street": "1 Ernest Bassey St, off Oron Road",
+    "city": "Uyo",
+    "postalCode": "520101",
+    "state": "Akwa Ibom",
+    "countryCode": "NG",
+    "website": "https://basselenconfectionery.com.ng/",
+    "phone": "+234 802 769 3170",
+    "phoneUnformatted": "+2348027693170",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 5.0107897,
+      "lng": 7.9394102
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ-5zmUb5ZxARmBpmy5VCm7g",
+    "categories": [
+      "Catering food and drink supplier",
+      "Bakery",
+      "Cake shop",
+      "Catering equipment rental service",
+      "Confectionery store",
+      "Culinary school",
+      "Cupcake shop",
+      "Pastry shop",
+      "Snack bar",
+      "Wedding bakery"
+    ],
+    "fid": "0x1067f9469973ee27:0xb89b4295cb661a98",
+    "cid": "13302299135498918552",
+    "reviewsCount": 8,
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-12T17:44:54.322Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Basselen%20Confectionery%20and%20Catering%20services.&query_place_id=ChIJJ-5zmUb5ZxARmBpmy5VCm7g",
+    "searchPageUrl": "https://www.google.com/maps/search/event%20caterer/@4.578450409258711,8.041962209360312,12z?hl=en",
+    "searchString": "event caterer",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkxSV9YTEO504OKJGtyKZ0Q_e_I57zNy0qxSKlbDVAItLBCfhQ_V7Jji2snXMP83iGbEvoD7owAT06ju1xgXkwIZlSPW6jVhziTVAYIbIpU9FrvFmzjKg_vex-Quv127PddZiek=w408-h462-k-no",
+    "kgmid": "/g/11wc7lg82w"
+  },
+  {
+    "title": "Suya University LLC",
+    "categoryName": "Personal chef service",
+    "address": "",
+    "city": "Unknown",
+    "state": "Akwa Ibom",
+    "phone": "(214) 412-1074",
+    "location": {
+      "lat": 32.655704,
+      "lng": -97.0025195
+    },
+    "placeId": "ChIJc3eVAnSJToYRiwOFlAJbm9k",
+    "scrapedAt": "2026-07-17T22:49:17.029Z",
+    "totalScore": 5,
+    "reviewsCount": 145,
+    "reviews": []
+  },
+  {
+    "title": "African Kitchen 24/7",
+    "categoryName": "Restaurant",
+    "address": "2W4X+M8Q, Uyo 520102, Akwa Ibom, Nigeria",
+    "city": "Uyo",
+    "state": "Akwa Ibom",
+    "phone": "+234 810 563 0261",
+    "location": {
+      "lat": 5.00667,
+      "lng": 7.948418
+    },
+    "placeId": "ChIJOZI2BwD5ZxARTnKRTR_g1dw",
+    "scrapedAt": "2026-07-17T22:49:37.998Z",
+    "totalScore": 3.9,
+    "reviewsCount": 32,
+    "reviews": []
+  },
+  {
+    "title": "Becky's Cook From Home kitchen",
+    "categoryName": "Restaurant",
+    "address": "44 Afaha Uqua Obok-Idim Rd, Eket 524101, Akwa Ibom, Nigeria",
+    "city": "Eket",
+    "state": "Akwa Ibom",
+    "phone": "+234 915 778 3388",
+    "location": {
+      "lat": 4.6327331,
+      "lng": 7.9461339
+    },
+    "placeId": "ChIJRbXwu3XdZxAR-xRiYEdgSpU",
+    "scrapedAt": "2026-07-17T22:49:49.233Z",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "reviews": []
+  },
+  {
+    "title": "Udy's Kitchen",
+    "categoryName": "Restaurant",
+    "address": "64 Eket - Oron Rd, Eket 524103, Akwa Ibom, Nigeria",
+    "city": "Eket",
+    "state": "Akwa Ibom",
+    "phone": "+234 703 537 2910",
+    "location": {
+      "lat": 4.6519004,
+      "lng": 7.9562499
+    },
+    "placeId": "ChIJz6TRfjLdZxAREGAOWFwLppU",
+    "scrapedAt": "2026-07-17T22:49:50.063Z",
+    "totalScore": 5,
+    "reviewsCount": 4,
+    "reviews": []
+  },
+  {
+    "title": "Marvelous kitchen eket",
+    "categoryName": "Restaurant",
+    "address": "Hospital Rd, behind Jufot Filling Station, Eket 524102, Akwa Ibom, Nigeria",
+    "city": "Eket",
+    "state": "Akwa Ibom",
+    "phone": "+234 701 303 5611",
+    "location": {
+      "lat": 4.641573,
+      "lng": 7.9236288
+    },
+    "placeId": "ChIJrVhmm1TdZxARW2XcIl5n-W0",
+    "scrapedAt": "2026-07-17T22:49:51.558Z",
+    "totalScore": 3.5,
+    "reviewsCount": 2,
+    "reviews": []
+  },
+  {
+    "title": "BELLE EXPRESS KITCHEN",
+    "categoryName": "Restaurant",
+    "address": "51 Hospital Rd, Eket 524101, Akwa Ibom, Nigeria",
+    "city": "Eket",
+    "state": "Akwa Ibom",
+    "phone": "+234 703 153 0232",
+    "location": {
+      "lat": 4.6404321,
+      "lng": 7.9224776
+    },
+    "placeId": "ChIJ9WDLexbdZxAR67SkXC2AoFc",
+    "scrapedAt": "2026-07-17T22:49:52.761Z",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "reviews": []
+  },
+  {
+    "title": "Zillion Restaurant and Catering",
+    "categoryName": "Restaurant",
+    "address": "44 Enen Ekpene Rd, Eket 524101, Akwa Ibom, Nigeria",
+    "city": "Eket",
+    "state": "Akwa Ibom",
+    "phone": "+234 802 136 5418",
+    "location": {
+      "lat": 4.6362857,
+      "lng": 7.9373401
+    },
+    "placeId": "ChIJhyLFbhHdZxARYy2Oj9iTgeE",
+    "scrapedAt": "2026-07-17T22:49:53.790Z",
+    "totalScore": 4.9,
+    "reviewsCount": 74,
+    "reviews": []
+  },
+  {
+    "title": "Home Chefs of Vail",
+    "categoryName": "Caterer",
+    "address": "",
+    "city": "Unknown",
+    "state": "Akwa Ibom",
+    "phone": "(970) 445-8419",
+    "location": {
+      "lat": 39.614522,
+      "lng": -106.6659954
+    },
+    "placeId": "ChIJcwfh3VEfyogROMKQos2sUHc",
+    "scrapedAt": "2026-07-17T22:58:37.868Z",
+    "totalScore": 5,
+    "reviewsCount": 7,
+    "reviews": []
+  },
+  {
+    "title": "Professional Home Cook in Uyo",
+    "categoryName": "Restaurant",
+    "address": "8 Udo Ukpe Street, Ikot Oko Idio Offot, Uyo 520101, Akwa Ibom, Nigeria",
+    "city": "Uyo",
+    "state": "Akwa Ibom",
+    "phone": "+234 708 017 5121",
+    "location": {
+      "lat": 5.0378355,
+      "lng": 7.958979
+    },
+    "placeId": "ChIJVT2sNmhXXRARVxOofdRgSBA",
+    "scrapedAt": "2026-07-17T22:58:37.892Z",
+    "totalScore": 4.9,
+    "reviewsCount": 11,
+    "reviews": []
+  },
+  {
+    "title": "Estelle’s cuisine",
+    "categoryName": "Personal chef service",
+    "address": "Ikot Oku Ubo, street, off Abak Road, Uyo 520101, Akwa Ibom, Nigeria",
+    "city": "Uyo",
+    "state": "Akwa Ibom",
+    "phone": "+234 810 972 9543",
+    "location": {
+      "lat": 5.0212952,
+      "lng": 7.8926825
+    },
+    "placeId": "ChIJ4_skzIlXXRARhBRBPFVcBws",
+    "scrapedAt": "2026-07-17T22:58:59.097Z",
+    "totalScore": null,
+    "reviewsCount": 0,
+    "reviews": []
+  },
+  {
+    "title": "Primo’s Kitchen",
+    "categoryName": "Personal chef service",
+    "address": "Aniedi Akpabio, Uyo 531118, Akwa Ibom, Nigeria",
+    "city": "Uyo",
+    "state": "Akwa Ibom",
+    "phone": "+234 816 219 8026",
+    "location": {
+      "lat": 5.0595187,
+      "lng": 7.8733965
+    },
+    "placeId": "ChIJNWLRIMZXXRARrq0JmMp0Tns",
+    "scrapedAt": "2026-07-17T22:59:05.475Z",
+    "totalScore": null,
+    "reviewsCount": 0,
+    "reviews": []
+  },
+  {
+    "title": "Danti kitchen/culinary school",
+    "categoryName": "Restaurant",
+    "address": "9 Ewet Street, Uyo 520102, Akwa Ibom, Nigeria",
+    "city": "Uyo",
+    "state": "Akwa Ibom",
+    "phone": "+234 909 371 6477",
+    "location": {
+      "lat": 5.0241113,
+      "lng": 7.9376852
+    },
+    "placeId": "ChIJiV4FfjZXXRARuxU73wjtboU",
+    "scrapedAt": "2026-07-17T22:59:08.718Z",
+    "totalScore": 4.3,
+    "reviewsCount": 3,
+    "reviews": []
+  },
+  {
+    "title": "ANNYTASTY FOODS AND ACADEMY",
+    "categoryName": "Catering food and drink supplier",
+    "address": "15 Ekpenyong St, off Uyo-Oron Road, Uyo 520103, Akwa Ibom, Nigeria",
+    "city": "Uyo",
+    "state": "Akwa Ibom",
+    "phone": "+234 706 156 4639",
+    "location": {
+      "lat": 5.0356086,
+      "lng": 7.932228
+    },
+    "placeId": "ChIJ8X4X6pNXXRARWdLRPLOmAdM",
+    "scrapedAt": "2026-07-17T22:59:11.590Z",
+    "totalScore": 4.8,
+    "reviewsCount": 33,
+    "reviews": []
+  },
+  {
+    "title": "Chef Rose",
+    "categoryName": "Personal chef service",
+    "address": "Uruan, Use Offot Primary School, Uyo 520101, Akwa Ibom, Nigeria",
+    "city": "Uyo",
+    "state": "Akwa Ibom",
+    "phone": "+234 708 178 0383",
+    "location": {
+      "lat": 5.0274807,
+      "lng": 7.9730797
+    },
+    "placeId": "ChIJ86qHwOlZXRARxTirOOi9soY",
+    "scrapedAt": "2026-07-17T22:59:11.637Z",
+    "totalScore": null,
+    "reviewsCount": 0,
+    "reviews": []
+  },
+  {
+    "title": "IDYJAY KITCHEN CULINARY SCHOOL,1 Esuene street",
+    "categoryName": "Culinary school",
+    "address": "1 Esuene St, Uyo 520102, Akwa Ibom, Nigeria",
+    "city": "Uyo",
+    "state": "Akwa Ibom",
+    "phone": "+234 703 697 5667",
+    "location": {
+      "lat": 5.026159,
+      "lng": 7.9078785
+    },
+    "placeId": "ChIJzyRP2ixXXRARybAJlL8XVOQ",
+    "scrapedAt": "2026-07-17T22:59:12.898Z",
+    "totalScore": 5,
+    "reviewsCount": 44,
+    "reviews": []
+  },
+  {
+    "title": "EJT Carpenter",
+    "categoryName": "Kitchen remodeler",
+    "address": "",
+    "city": "Unknown",
+    "state": "Akwa Ibom",
+    "phone": "(305) 218-5959",
+    "location": {
+      "lat": 26.303521,
+      "lng": -80.196295
+    },
+    "placeId": "ChIJM0I5i7-72YgRR3Isq_tjnR4",
+    "scrapedAt": "2026-07-17T23:22:43.494Z",
+    "totalScore": 5,
+    "reviewsCount": 3,
+    "reviews": []
+  },
+  {
+    "title": "Homestyle Restaurant",
+    "categoryName": "Soup kitchen",
+    "address": "51 Aka Etinan Rd, opposite sublime pharmacy, Uyo 520102, Akwa Ibom, Nigeria",
+    "city": "Uyo",
+    "state": "Akwa Ibom",
+    "phone": "+234 906 441 6675",
+    "website": "",
+    "facebook": null,
+    "instagram": null,
+    "location": {
+      "lat": 5.0085737,
+      "lng": 7.912966
+    },
+    "placeId": "ChIJ2aziKjhXXRARy_CdmPDYPsc",
+    "scrapedAt": "2026-07-20T18:38:04.531Z",
+    "totalScore": 4.7,
+    "reviewsCount": 3,
+    "reviews": [],
+    "imageUrls": [],
+    "profileImageUrl": null
+  },
+  {
+    "title": "Kitchen Treat",
+    "categoryName": "Restaurant",
+    "address": "143 Abak Rd, Uyo 520102, Akwa Ibom, Nigeria",
+    "city": "Uyo",
+    "state": "Akwa Ibom",
+    "phone": "+234 815 556 5869",
+    "website": "",
+    "facebook": null,
+    "instagram": null,
+    "location": {
+      "lat": 5.0269996,
+      "lng": 7.9075428
+    },
+    "placeId": "ChIJx-KWHrNXXRARDQ5dlhSBCQw",
+    "scrapedAt": "2026-07-20T18:38:46.584Z",
+    "totalScore": 4,
+    "reviewsCount": 1,
+    "reviews": [],
+    "imageUrls": [],
+    "profileImageUrl": null
+  },
+  {
+    "title": "Eatwithabbie",
+    "categoryName": "Catering food and drink supplier",
+    "address": "",
+    "city": "Unknown",
+    "state": "Akwa Ibom",
+    "phone": "+234 902 024 7477",
+    "website": "https://www.facebook.com/EatwithAbbie",
+    "facebook": "https://www.facebook.com/EatwithAbbie",
+    "instagram": null,
+    "location": {
+      "lat": 4.8864273,
+      "lng": 7.9118976
+    },
+    "placeId": "ChIJ9_VCSW7CK04RbSLONDflVKI",
+    "scrapedAt": "2026-07-20T18:38:49.240Z",
+    "totalScore": 4.7,
+    "reviewsCount": 11,
+    "reviews": [],
+    "imageUrls": [],
+    "profileImageUrl": null
+  },
+  {
+    "title": "ABY'S KITCHEN",
+    "categoryName": "Restaurant",
+    "address": "93 Ikot Ekpene - Umuahia Rd, Ikot Ekpene 530101, Akwa Ibom, Nigeria",
+    "city": "Ikot Ekpene",
+    "state": "Akwa Ibom",
+    "phone": "+234 907 879 1666",
+    "website": "",
+    "facebook": null,
+    "instagram": null,
+    "location": {
+      "lat": 5.1939599,
+      "lng": 7.7044624
+    },
+    "placeId": "ChIJgb40BmyzQhAR_pEgWdC3qbM",
+    "scrapedAt": "2026-07-20T18:38:51.067Z",
+    "totalScore": null,
+    "reviewsCount": 0,
+    "reviews": [],
+    "imageUrls": [],
+    "profileImageUrl": null
+  },
+  {
+    "title": "Tees Kitchen",
+    "categoryName": "Restaurant",
+    "address": "38 Iboko St, off Ikot Ekpene road, Uyo 520261, Akwa Ibom, Nigeria",
+    "city": "Uyo",
+    "state": "Akwa Ibom",
+    "phone": "+234 706 343 1281",
+    "website": "https://instagram.com/officialteeskitchen?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D",
+    "facebook": null,
+    "instagram": "https://instagram.com/officialteeskitchen?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D",
+    "location": {
+      "lat": 5.0344554,
+      "lng": 7.9178671
+    },
+    "placeId": "ChIJZXt4OehXXRARIwKMzGCzK_M",
+    "scrapedAt": "2026-07-20T18:38:52.570Z",
+    "totalScore": 5,
+    "reviewsCount": 4,
+    "reviews": [],
+    "imageUrls": [],
+    "profileImageUrl": null
+  },
+  {
+    "title": "Possibility Restaurant And Catering Services",
+    "categoryName": "Restaurant",
+    "address": "5PG6+XP7, General Hospital Road, GRA, Ikot Ekpene 530101, Akwa Ibom, Nigeria",
+    "city": "Ikot Ekpene",
+    "state": "Akwa Ibom",
+    "phone": "+234 808 467 2936",
+    "website": "",
+    "facebook": null,
+    "instagram": null,
+    "location": {
+      "lat": 5.1781963,
+      "lng": 7.7136717
+    },
+    "placeId": "ChIJDbT7AwCtQhARE6GW29gLxkU",
+    "scrapedAt": "2026-07-20T18:38:52.891Z",
+    "totalScore": 3,
+    "reviewsCount": 2,
+    "reviews": [],
+    "imageUrls": [],
+    "profileImageUrl": null
+  },
+  {
+    "title": "EKA-SUNNY KITCHEN/OUTLET",
+    "categoryName": "Restaurant",
+    "address": "30 Aba Rd, Ikot Ekpene 451117, Akwa Ibom, Nigeria",
+    "city": "Ikot Ekpene",
+    "state": "Akwa Ibom",
+    "phone": "+234 802 703 8645",
+    "website": "",
+    "facebook": null,
+    "instagram": null,
+    "location": {
+      "lat": 5.1816752,
+      "lng": 7.7092782
+    },
+    "placeId": "ChIJBxEqPv6xQhARtf0XWEhhk4g",
+    "scrapedAt": "2026-07-20T18:38:54.307Z",
+    "totalScore": 4,
+    "reviewsCount": 2,
+    "reviews": [],
+    "imageUrls": [],
+    "profileImageUrl": null
+  }
+]
