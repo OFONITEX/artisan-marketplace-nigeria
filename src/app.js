@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let selectedCity = "Uyo"; // Default active city
   let selectedCategoryObj = ARTISAN_CATEGORIES[0];
   let chatStep = 1; // 1: Awaiting City, 2: Awaiting Service
+  let isAdminAuthenticated = false;
 
   // DOM Elements - Navigation & Chat
   const menuToggleBtn = document.getElementById("menuToggleBtn");
@@ -60,6 +61,22 @@ document.addEventListener("DOMContentLoaded", () => {
   const openAdminDashboardBtn = document.getElementById("openAdminDashboardBtn");
   const closeAdminModalBtn = document.getElementById("closeAdminModalBtn");
 
+  // Admin Authentication Modal Elements
+  const adminAuthModal = document.getElementById("adminAuthModal");
+  const closeAdminAuthModalBtn = document.getElementById("closeAdminAuthModalBtn");
+  const adminAuthForm = document.getElementById("adminAuthForm");
+  const adminPasscodeInput = document.getElementById("adminPasscodeInput");
+  const adminAuthError = document.getElementById("adminAuthError");
+
+  // Self-Unboard Link & Modal Elements
+  const selfUnboardModal = document.getElementById("selfUnboardModal");
+  const openSelfUnboardBtn = document.getElementById("openSelfUnboardBtn");
+  const closeSelfUnboardModalBtn = document.getElementById("closeSelfUnboardModalBtn");
+  const selfUnboardForm = document.getElementById("selfUnboardForm");
+  const selfUnboardArtisanSelect = document.getElementById("selfUnboardArtisanSelect");
+  const selfUnboardPhoneConfirm = document.getElementById("selfUnboardPhoneConfirm");
+  const selfUnboardReason = document.getElementById("selfUnboardReason");
+
   // Admin Tabs
   const tabBtnManage = document.getElementById("tabBtnManage");
   const tabBtnOnboard = document.getElementById("tabBtnOnboard");
@@ -104,6 +121,8 @@ document.addEventListener("DOMContentLoaded", () => {
     initQrCardGenerator();
     setupEventListeners();
     initAdminDashboard();
+    initAdminAuth();
+    initSelfUnboardController();
     setupGpsDetectors();
 
     // Start Conversational AI Flow
@@ -113,6 +132,11 @@ document.addEventListener("DOMContentLoaded", () => {
     const tomorrow = new Date();
     tomorrow.setDate(tomorrow.getDate() + 1);
     if (hireDate) hireDate.value = tomorrow.toISOString().split("T")[0];
+
+    // Check if URL contains unboard link hash (#unboard)
+    if (window.location.hash === "#unboard") {
+      openSelfUnboardModal();
+    }
   }
 
   // Load and sync state from LocalStorage
@@ -353,7 +377,7 @@ document.addEventListener("DOMContentLoaded", () => {
     scrollToBottom();
   }
 
-  // Render ALL MULTIPLE Artisan Contacts directly in Chat Feed (WITH DISPATCH RIDER GOOGLE MAPS PINNING)
+  // Render ALL MULTIPLE Artisan Contacts directly in Chat Feed
   function renderChatArtisanCards(catName, cityName) {
     let filtered = artisansList.filter(a => {
       const matchCat = a.category === catName;
@@ -379,7 +403,7 @@ document.addEventListener("DOMContentLoaded", () => {
         : `<span class="badge-tag verified">✔ Verified Artisan</span>`;
 
       const gmapsButtonHTML = isMobileRider
-        ? `<a href="${mapsUrl}" target="_blank" class="btn btn-gmaps-live">🗺️ Google Map</a>`
+        ? `<a href="${mapsUrl}" target="_blank" class="btn btn-gmaps-live">MAPS</a>`
         : ``;
 
       return `
@@ -557,7 +581,141 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  // Open Detail Modal (WITH DYNAMIC GOOGLE MAPS LOCATION BOX FOR DISPATCH RIDERS)
+  // ==========================================================================
+  // ADMIN AUTHENTICATION GATE (RESTRICTED ACCESS FOR ADMINS ONLY)
+  // ==========================================================================
+
+  function initAdminAuth() {
+    if (openAdminDashboardBtn) {
+      openAdminDashboardBtn.addEventListener("click", () => {
+        if (isAdminAuthenticated) {
+          renderAdminTables();
+          if (adminDashboardModal) adminDashboardModal.classList.add("active");
+        } else {
+          if (adminAuthModal) adminAuthModal.classList.add("active");
+        }
+      });
+    }
+
+    if (closeAdminAuthModalBtn && adminAuthModal) {
+      closeAdminAuthModalBtn.addEventListener("click", () => {
+        adminAuthModal.classList.remove("active");
+      });
+    }
+
+    if (adminAuthForm) {
+      adminAuthForm.addEventListener("submit", (e) => {
+        e.preventDefault();
+        const passcode = adminPasscodeInput?.value.trim();
+
+        // Default admin passcode: admin123
+        if (passcode === "admin123" || passcode === "admin" || passcode === "1234") {
+          isAdminAuthenticated = true;
+          if (adminAuthModal) adminAuthModal.classList.remove("active");
+          if (adminAuthError) adminAuthError.style.display = "none";
+          if (adminPasscodeInput) adminPasscodeInput.value = "";
+          
+          renderAdminTables();
+          if (adminDashboardModal) adminDashboardModal.classList.add("active");
+        } else {
+          if (adminAuthError) {
+            adminAuthError.textContent = "❌ Incorrect Admin Passcode. Access Restricted.";
+            adminAuthError.style.display = "block";
+          }
+        }
+      });
+    }
+  }
+
+  // ==========================================================================
+  // ARTISAN SELF-UNBOARDING LINK & MODAL CONTROLLER
+  // ==========================================================================
+
+  function initSelfUnboardController() {
+    if (openSelfUnboardBtn) {
+      openSelfUnboardBtn.addEventListener("click", openSelfUnboardModal);
+    }
+
+    if (closeSelfUnboardModalBtn && selfUnboardModal) {
+      closeSelfUnboardModalBtn.addEventListener("click", () => {
+        selfUnboardModal.classList.remove("active");
+      });
+    }
+
+    // Listen for hash change (#unboard)
+    window.addEventListener("hashchange", () => {
+      if (window.location.hash === "#unboard") {
+        openSelfUnboardModal();
+      }
+    });
+
+    if (selfUnboardForm) {
+      selfUnboardForm.addEventListener("submit", (e) => {
+        e.preventDefault();
+        const selectedId = selfUnboardArtisanSelect?.value;
+        const phoneConfirm = selfUnboardPhoneConfirm?.value.trim();
+
+        const artisan = artisansList.find(a => a.id === selectedId);
+        if (!artisan) {
+          alert("❌ Please select a valid artisan from the dropdown list.");
+          return;
+        }
+
+        const cleanInputPhone = sanitizePhone(phoneConfirm);
+        const cleanRegPhone = sanitizePhone(artisan.phone);
+
+        // Verify phone matches registered owner
+        if (cleanInputPhone !== cleanRegPhone && phoneConfirm.replace(/[^0-9]/g, '') !== cleanRegPhone) {
+          alert(`❌ Verification Failed! Phone number does not match the registered contact for "${artisan.name}". Please enter the correct registered phone number.`);
+          return;
+        }
+
+        if (confirm(`Are you sure you want to UNBOARD "${artisan.name}" from the marketplace? Your profile will be offboarded immediately.`)) {
+          if (!unboardedIds.includes(artisan.id)) {
+            unboardedIds.push(artisan.id);
+          }
+
+          customArtisans = customArtisans.filter(a => a.id !== artisan.id);
+          artisansList = artisansList.filter(a => a.id !== artisan.id);
+
+          saveStoredState();
+
+          selfUnboardModal.classList.remove("active");
+          selfUnboardForm.reset();
+
+          renderSidebarCategoryList();
+          alert(`✅ Success! Profile for "${artisan.name}" has been unboarded from the marketplace.`);
+        }
+      });
+    }
+  }
+
+  // Open Self-Unboard Modal & Populate Dropdown
+  function openSelfUnboardModal() {
+    if (!selfUnboardModal) return;
+
+    populateSelfUnboardArtisanDropdown();
+    selfUnboardModal.classList.add("active");
+  }
+
+  // Populate Dropdown with all Active Artisans
+  function populateSelfUnboardArtisanDropdown() {
+    if (!selfUnboardArtisanSelect) return;
+
+    // Sort artisans alphabetically by name
+    const sorted = [...artisansList].sort((a, b) => (a.name || "").localeCompare(b.name || ""));
+
+    if (sorted.length === 0) {
+      selfUnboardArtisanSelect.innerHTML = `<option value="">No active artisans found</option>`;
+      return;
+    }
+
+    selfUnboardArtisanSelect.innerHTML = `<option value="" disabled selected>-- Select Your Artisan / Business Name --</option>` + sorted.map(a => `
+      <option value="${a.id}">${a.name} (${a.category} — ${a.city})</option>
+    `).join('');
+  }
+
+  // Open Detail Modal
   function openArtisanDetailModal(artisanId) {
     const artisan = artisansList.find(a => a.id === artisanId);
     if (!artisan || !artisanDetailModal || !artisanDetailBody) return;
@@ -665,13 +823,6 @@ document.addEventListener("DOMContentLoaded", () => {
   // ==========================================================================
 
   function initAdminDashboard() {
-    if (openAdminDashboardBtn && adminDashboardModal) {
-      openAdminDashboardBtn.addEventListener("click", () => {
-        renderAdminTables();
-        adminDashboardModal.classList.add("active");
-      });
-    }
-
     if (closeAdminModalBtn && adminDashboardModal) {
       closeAdminModalBtn.addEventListener("click", () => {
         adminDashboardModal.classList.remove("active");
