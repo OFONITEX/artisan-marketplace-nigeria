@@ -47,6 +47,9 @@
       </div>
 
       <div class="header-actions">
+        <button class="btn btn-admin-header" id="openAdminDashboardBtn">
+          🛡️ Admin Dashboard
+        </button>
         <button class="btn btn-outline" id="openQrModalBtn">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
@@ -277,14 +280,241 @@
         </div>
 
         <div class="form-group">
-          <label>Street Address</label>
-          <input type="text" id="regLocation" class="form-control" placeholder="e.g. 14 Main Street" required />
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <label>Street Address / Mobile Station *</label>
+            <button type="button" class="btn btn-outline btn-sm btn-gps-detect" id="regDetectGpsBtn">📍 Capture GPS for Google Maps</button>
+          </div>
+          <input type="text" id="regLocation" class="form-control" placeholder="e.g. 14 Main Street, Osong Ama, Uyo" required />
+          <span class="form-help-sub" id="regGpsStatus">Mobile Riders/Logistics: Location pinned on Google Maps</span>
+        </div>
+
+        <div class="form-group">
+          <label>Artisan Picture / Photo</label>
+          <div class="file-upload-preview-wrapper">
+            <input type="file" id="regPictureFile" accept="image/*" class="form-control-file" />
+            <input type="url" id="regPictureUrl" class="form-control" placeholder="OR paste image URL (https://...)" style="margin-top:6px;" />
+            <div class="img-preview-box" id="regImgPreviewBox">
+              <span>No picture selected (will use category icon)</span>
+            </div>
+          </div>
         </div>
 
         <button type="submit" class="btn btn-primary btn-block">
           Submit Listing & Go Live Immediately
         </button>
       </form>
+    </div>
+  </div>
+
+  <!-- MODAL 5: FULL ADMIN DASHBOARD MODAL (ONBOARD & UNBOARD ARTISANS) -->
+  <div class="modal-backdrop" id="adminDashboardModal">
+    <div class="modal-card modal-xl admin-modal">
+      <button class="modal-close" id="closeAdminModalBtn">&times;</button>
+      
+      <!-- Admin Modal Header -->
+      <div class="admin-header">
+        <div class="admin-title-group">
+          <span class="admin-badge">🛡️ ADMIN PORTAL</span>
+          <h2 class="admin-title">Artisan Marketplace Admin Dashboard</h2>
+          <p class="admin-subtitle">Onboard, manage, and unboard (remove) artisans with real-time portal synchronization.</p>
+        </div>
+
+        <!-- Admin Tabs -->
+        <div class="admin-nav-tabs">
+          <button class="admin-tab-btn active" id="tabBtnManage" data-tab="manage">
+            📋 Manage & Unboard Artisans
+          </button>
+          <button class="admin-tab-btn" id="tabBtnOnboard" data-tab="onboard">
+            ➕ Onboard New Artisan
+          </button>
+          <button class="admin-tab-btn" id="tabBtnArchive" data-tab="archive">
+            🗑️ Unboarded Archive (<span id="unboardedCountBadge">0</span>)
+          </button>
+        </div>
+      </div>
+
+      <!-- Stats Counters Bar -->
+      <div class="admin-stats-bar">
+        <div class="admin-stat-card">
+          <span class="stat-num" id="statTotalActive">0</span>
+          <span class="stat-label">Active Artisans</span>
+        </div>
+        <div class="admin-stat-card">
+          <span class="stat-num" id="statTotalCategories">25</span>
+          <span class="stat-label">Artisan Categories</span>
+        </div>
+        <div class="admin-stat-card">
+          <span class="stat-num" id="statTotalOnboarded">0</span>
+          <span class="stat-label">Custom Onboarded</span>
+        </div>
+        <div class="admin-stat-card text-danger">
+          <span class="stat-num" id="statTotalUnboarded">0</span>
+          <span class="stat-label">Unboarded (Removed)</span>
+        </div>
+      </div>
+
+      <!-- TAB 1 VIEW: MANAGE & UNBOARD ARTISANS -->
+      <div class="admin-tab-view active" id="viewManage">
+        <div class="admin-filter-bar">
+          <div class="search-box-wrap">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="adminSearchInput" class="admin-search-input" placeholder="Search by Name, Address, Phone number..." />
+          </div>
+
+          <div class="filter-dropdowns">
+            <select id="adminCityFilter" class="admin-select-filter">
+              <option value="ALL">All Cities</option>
+              <option value="Uyo">Uyo</option>
+              <option value="Eket">Eket</option>
+              <option value="Calabar">Calabar</option>
+              <option value="Port Harcourt">Port Harcourt</option>
+              <option value="Lagos">Lagos</option>
+              <option value="Abuja">Abuja</option>
+            </select>
+
+            <select id="adminCatFilter" class="admin-select-filter">
+              <option value="ALL">All Categories</option>
+              <!-- Populated via JS -->
+            </select>
+          </div>
+        </div>
+
+        <div class="admin-table-container">
+          <table class="admin-table">
+            <thead>
+              <tr>
+                <th>Picture</th>
+                <th>Artisan / Business Name</th>
+                <th>Street Address & City</th>
+                <th>Phone Number</th>
+                <th>Category</th>
+                <th>Starting Price</th>
+                <th style="text-align: right;">Actions</th>
+              </tr>
+            </thead>
+            <tbody id="adminArtisansTableBody">
+              <!-- Dynamically populated via JS -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- TAB 2 VIEW: ONBOARD NEW ARTISAN -->
+      <div class="admin-tab-view" id="viewOnboard">
+        <form id="adminOnboardForm" class="admin-form-grid">
+          <div class="form-section-title">
+            <h3>📝 Artisan Details for Portal Onboarding</h3>
+            <p>Fill out full verified details to list the artisan directly into the AI search agent network.</p>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group flex-2">
+              <label>Artisan / Business Name *</label>
+              <input type="text" id="adminRegName" class="form-control" placeholder="e.g. Victor Sound DJ & Event Services" required />
+            </div>
+            <div class="form-group flex-1">
+              <label>Artisan Category *</label>
+              <select id="adminRegCategory" class="form-control" required>
+                <!-- Populated via JS -->
+              </select>
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group flex-2">
+              <div style="display:flex; justify-content:space-between; align-items:center;">
+                <label>Full Street Address / Dispatch Station *</label>
+                <button type="button" class="btn btn-outline btn-sm btn-gps-detect" id="adminRegDetectGpsBtn">📍 Capture GPS for Google Maps</button>
+              </div>
+              <input type="text" id="adminRegAddress" class="form-control" placeholder="e.g. 14 Ikot Ekpene Road, Plaza, Uyo" required />
+              <span class="form-help-sub" id="adminGpsStatus">Mobile Riders/Logistics: Location pinned on Google Maps</span>
+            </div>
+            <div class="form-group flex-1">
+              <label>Operating City *</label>
+              <select id="adminRegCity" class="form-control" required>
+                <option value="Uyo">Uyo</option>
+                <option value="Eket">Eket</option>
+                <option value="Calabar">Calabar</option>
+                <option value="Port Harcourt">Port Harcourt</option>
+                <option value="Lagos">Lagos</option>
+                <option value="Abuja">Abuja</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label>Phone / WhatsApp Contact Number *</label>
+              <input type="tel" id="adminRegPhone" class="form-control" placeholder="e.g. 08012345678 or 2348012345678" required />
+            </div>
+            <div class="form-group">
+              <label>Starting Price (₦) *</label>
+              <input type="number" id="adminRegPrice" class="form-control" value="5000" min="500" placeholder="5000" required />
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label>Artisan Picture / Image *</label>
+            <div class="admin-picture-picker">
+              <div class="picker-column">
+                <label class="btn btn-outline btn-upload-label">
+                  📁 Upload Picture File
+                  <input type="file" id="adminRegPictureFile" accept="image/*" style="display:none;" />
+                </label>
+                <span style="font-size:0.78rem; color:var(--slate-500);">OR Enter Image Web URL:</span>
+                <input type="url" id="adminRegPictureUrl" class="form-control" placeholder="https://images.unsplash.com/..." />
+              </div>
+              <div class="picker-preview-column">
+                <div class="admin-img-preview" id="adminImgPreviewBox">
+                  <span style="font-size: 0.8rem; color: var(--slate-500);">Preview Picture</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label>Specialized Skills & Services (comma separated) *</label>
+            <input type="text" id="adminRegSpecialties" class="form-control" placeholder="e.g. DJ Turntable Mixing, Speaker Rental, Lighting" required />
+          </div>
+
+          <div class="form-group">
+            <label>Availability Hours & Working Days</label>
+            <input type="text" id="adminRegAvailability" class="form-control" value="8:00 AM – 8:00 PM (Daily)" placeholder="8:00 AM – 8:00 PM (Daily)" />
+          </div>
+
+          <div class="form-actions-bar">
+            <button type="submit" class="btn btn-primary btn-onboard-submit">
+              ✨ Onboard Artisan to Live Portal
+            </button>
+          </div>
+        </form>
+      </div>
+
+      <!-- TAB 3 VIEW: UNBOARDED ARCHIVE -->
+      <div class="admin-tab-view" id="viewArchive">
+        <div class="archive-header-note">
+          <p>Below are artisans who have been <strong>unboarded (removed)</strong> from the active marketplace portal. You can re-onboard them at any time.</p>
+        </div>
+        <div class="admin-table-container">
+          <table class="admin-table">
+            <thead>
+              <tr>
+                <th>Picture</th>
+                <th>Artisan / Business Name</th>
+                <th>Street Address & City</th>
+                <th>Phone Number</th>
+                <th>Category</th>
+                <th>Unboarded Date</th>
+                <th style="text-align: right;">Action</th>
+              </tr>
+            </thead>
+            <tbody id="adminArchiveTableBody">
+              <!-- Dynamically populated via JS -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
     </div>
   </div>
 
